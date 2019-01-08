@@ -6,3 +6,8 @@ Your players can finally update their copies of your game with no pain or headac
 
 ## Why this repository?
 This repository is intended to be used for issues tracking, wiki and shared material/knowledge about P.A.T.C.H.. Also this will allow the community to better interact with me and communicate/report issues.
+
+## Current Admin Tool preview
+![Admin Tool Preview](https://github.com/manhunterita/PATCH/blob/master/current_admin_tool.png)
+
+## Current Launcher preview
