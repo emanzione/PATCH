@@ -1,6 +1,5 @@
 var localeIT = {
 	"[connection_connecting]": "Connessione...",
-	"[connection_connecting]": "Connesso!",
 	"[connection_retrieving_data]": "Ricercando le informazioni necessarie...",
 	"[connection_connection_lost]": "La connessione con l'Admin Tool di P.A.T.C.H. è stata interrotta! Riconnessione...",
 	"[connection_websocket_is_not_supported]": "Il tuo browser non supporta WebSocket. Aggiornalo per utilizzare P.A.T.C.H.!",
@@ -60,16 +59,51 @@ var localeIT = {
 	"[new_project_create_button]": "Crea",
 	/* _____ */
 
+	/* PROJECT SELECTION */
+	"[project_selection_title]": "Seleziona progetto",
+	"[project_selection_body_select]": "Sono stati trovati più progetti. Quale vuoi utilizzare?",
+	"[project_selection_select_button]": "Seleziona",
+	/* _____ */
+
 	/* PLATFORM MANAGEMENT */
 	"[platforms_management_title]": "Gestione piattaforme",
+	"[platforms_management_create_button]": "Crea nuova",
 	/* _____ */
 	
 	/* BRANCH MANAGEMENT */
 	"[branches_management_title]": "Gestione branch",
+	"[branches_management_create_button]": "Crea nuovo",
 	/* _____ */
 
 	/* OPTIONS */
 	"[options_language_section_title]": "Lingua",
 	"[options_language_section_label]": "Imposta la lingua per questo tool.",
+	/* _____ */
+
+	/* INFO */
+	"[info_contacts_section_title]": "Contatti",
+	"[info_email_section_label]": "Email",
+	"[info_email_section_description]": "Contattami qui per ricevere supporto privato.",
+	"[info_website_section_label]": "Website",
+	"[info_website_section_description]": "Il sito web ufficiale di P.A.T.C.H.! Troverai news, articoli ed altro.",
+	"[info_skype_section_label]": "Skype",
+	"[info_skype_section_description]": "Contattami qui per ricevere supporto privato in tempo reale.",
+	"[info_twitter_section_label]": "Twitter",
+	"[info_twitter_section_description]": "Seguimi su Twitter per ricevere news e informazioni su P.A.T.C.H.!",
+	"[info_discord_section_label]": "Discord",
+	"[info_discord_section_description]": "Unisciti a noi: qui discutiamo di bug, versioni beta, fix, nuove funzionalità, ecc.",
+	"[info_unity_section_label]": "Unity Forum",
+	"[info_unity_section_description]": "Il thread ufficiale sul forum di Unity!",
+	/* _____ */
+
+	/* BUILDS */
+	"[builds_build_empty_error]": "Non ci sono file da computare nella tua cartella \"App\".",
+	"[builds_refresh_button]": "Ricarica",
+	"[build_command_button]": "Build",
+	"[build_stats_files]": "Numero di file",
+	"[build_stats_size]": "Dimensione",
+	"[build_stats_compression]": "Compressione",
+	"[builds_compression_level]": "Livello compressione",
+	"[builds_ignore_list_button]": "Salva ignorelist",
 	/* _____ */
 };

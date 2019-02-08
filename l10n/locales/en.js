@@ -1,6 +1,5 @@
 var localeEN = {
 	"[connection_connecting]": "Connecting...",
-	"[connection_connecting]": "Connected!",
 	"[connection_retrieving_data]": "Retrieving required data...",
 	"[connection_connection_lost]": "Connection with the P.A.T.C.H. Admin Tool has been lost! Retrying...",
 	"[connection_websocket_is_not_supported]": "Your browser does NOT support WebSocket. Update it in order to use P.A.T.C.H.!",
@@ -60,16 +59,51 @@ var localeEN = {
 	"[new_project_create_button]": "Create",
 	/* _____ */
 
+	/* PROJECT SELECTION */
+	"[project_selection_title]": "Select project",
+	"[project_selection_body_select]": "Multiple projects found. Select one!",
+	"[project_selection_select_button]": "Select",
+	/* _____ */
+
 	/* PLATFORM MANAGEMENT */
 	"[platforms_management_title]": "Platforms management",
+	"[platforms_management_create_button]": "Create new",
 	/* _____ */
 	
 	/* BRANCH MANAGEMENT */
 	"[branches_management_title]": "Branches management",
+	"[branches_management_create_button]": "Create new",
 	/* _____ */
 
 	/* OPTIONS */
 	"[options_language_section_title]": "Language",
 	"[options_language_section_label]": "Set the language for this tool.",
+	/* _____ */
+
+	/* INFO */
+	"[info_contacts_section_title]": "Contacts",
+	"[info_email_section_label]": "Email",
+	"[info_email_section_description]": "Contact me here for private support.",
+	"[info_website_section_label]": "Website",
+	"[info_website_section_description]": "The official P.A.T.C.H. website. You will find news, blog posts and more.",
+	"[info_skype_section_label]": "Skype",
+	"[info_skype_section_description]": "Contact me here for private realtime support.",
+	"[info_twitter_section_label]": "Twitter",
+	"[info_twitter_section_description]": "Follow me to receive info and news about P.A.T.C.H.!",
+	"[info_discord_section_label]": "Discord",
+	"[info_discord_section_description]": "Join us: here we discuss about bugs, beta versions, fixes, new features, etc.",
+	"[info_unity_section_label]": "Unity Forum",
+	"[info_unity_section_description]": "The official Unity Forum thread!",
+	/* _____ */
+
+	/* BUILDS */
+	"[builds_build_empty_error]": "There are no files to compute in your \"App\" folder.",
+	"[builds_refresh_button]": "Refresh",
+	"[build_command_button]": "Build",
+	"[build_stats_files]": "Files amount",
+	"[build_stats_size]": "Size",
+	"[build_stats_compression]": "Compression",
+	"[builds_compression_level]": "Compression level",
+	"[builds_ignore_list_button]": "Save ignorelist",
 	/* _____ */
 };
