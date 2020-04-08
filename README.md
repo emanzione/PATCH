@@ -1,4 +1,4 @@
-![P.A.T.C.H.](https://github.com/manhunterita/PATCH/blob/master/patch_logo_shaded.png)
+![P.A.T.C.H.](https://github.com/manhunterita/PATCH/blob/master/patch_logo_banner.png)
 ## What is P.A.T.C.H.?
 P.A.T.C.H. is a rock-solid, professional, all-in-one, smart and clean solution for managing your game's updates!
 
