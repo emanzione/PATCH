@@ -17,5 +17,12 @@
         string UpdateProcessedUpdatedFile { get; }
         string UpdateProcessingChangedAttributesFile { get; }
         string UpdateProcessedChangedAttributesFile { get; }
+
+        string NotAvailableNetwork { get; }
+        string NotAvailableServers { get; }
+
+        string UpdateProcessCompleted { get; }
+        string UpdateProcessFailed { get; }
+        string UpdateRestartNeeded { get; }
     }
 }

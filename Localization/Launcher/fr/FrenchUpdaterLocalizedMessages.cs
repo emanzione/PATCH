@@ -17,5 +17,10 @@ namespace MHLab.Patch.Launcher.Wpf.Localization
         public string UpdateProcessedUpdatedFile => "Fichier mis à jour : {0}";
         public string UpdateProcessingChangedAttributesFile => "Correction des attributs du fichier : {0}";
         public string UpdateProcessedChangedAttributesFile => "Attributs corrigés : {0}";
+        public string NotAvailableNetwork => "Le réseau n'est pas disponible ou la connectivité est faible/faible... Vérifiez votre connexion!";
+        public string NotAvailableServers => "Nos serveurs ne répondent pas... Attendez quelques minutes et réessayez!";
+        public string UpdateProcessCompleted => "Le processus de mise à jour s'est terminé avec succès!";
+        public string UpdateProcessFailed => "Échec du processus de mise à jour!";
+        public string UpdateRestartNeeded => "Un redémarrage est nécessaire!";
     }
 }
